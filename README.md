@@ -24,7 +24,7 @@
 * HTML5, CSS3 (CSS preprocessor SASS)
 * JavaScript, ES6,DOM,BOM
 * Bootstrap 
-* Working on Visual Studio Code redactor
+* Working on Visual Studio Code editor
 * Git/GitHub
 
 
