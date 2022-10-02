@@ -11,7 +11,7 @@
 </p>
 
 <p align='center'>
-   <a href="https://t.me/joinchat/NG0590">
+   <a href="https://t.me/NG0590">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
