@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nelly
-- Junior Markup Specialist. 
+- Junior Frontend Developer. 
 - In recent years, I have worked in a different profession. I have no experience in this profession. So I'm looking forward internships of junior markup specialist/frontend developer
 
 - <p align='center'>
