@@ -22,7 +22,7 @@
 
 ## 🛠 Technical Stack
 * HTML5 
-* CSS3 (CSS preprocessor SASS)
+* CSS3 (CSS preprocessor SCSS)
 * JavaScript, ES6,DOM,BOM
 * Bootstrap 
 * Working on Visual Studio Code editor
@@ -30,6 +30,8 @@
 * jQuery
 * SVG
 * OOP
+* Gulp
+* React js
 
 
 
