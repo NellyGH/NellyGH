@@ -31,7 +31,7 @@
 * SVG
 * OOP
 * Gulp
-* React js
+* React/Redux Toolkit
 
 
 
