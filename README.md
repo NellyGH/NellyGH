@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nelly
-- Junior Frontend Developer. 
-- In recent years, I have worked in a different profession. I have no experience in this profession. So I'm looking forward internships of junior markup specialist/frontend developer
+- Junior React JS Developer. 
+- In recent years, I have worked in a different profession. I have no experience in this profession. So I'm looking forward internships or job offers of junior React JS developer
 
 - <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=NellyGh&show_icons=true&count_private=true"><img
