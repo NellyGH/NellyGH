@@ -24,6 +24,7 @@
 * HTML5 
 * CSS3 (CSS preprocessor SCSS)
 * JavaScript, ES6,DOM,BOM
+* React/Redux Toolkit
 * Bootstrap 
 * Working on Visual Studio Code editor
 * Git/GitHub
@@ -31,7 +32,7 @@
 * SVG
 * OOP
 * Gulp
-* React/Redux Toolkit
+
 
 
 
