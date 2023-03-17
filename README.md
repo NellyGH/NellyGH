@@ -21,6 +21,8 @@
 
 
 ## 🛠 Technical Stack
+</hr>
+![JS](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow&style=for-the-badge)
 * HTML5 
 * CSS3 (CSS preprocessor SCSS)
 * JavaScript, ES6,DOM,BOM
