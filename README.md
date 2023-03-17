@@ -22,7 +22,14 @@
 
 ## 🛠 Technical Stack
 </hr>
+
 ![JS](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow&style=for-the-badge)
+![React](https://img.shields.io/badge/React.JS-blue?logo=react&logoColor=cyan&style=for-the-badge)
+![VSCode](https://img.shields.io/badge/VSCode-8d8cdf?logo=visualstudiocode&logoColor=4666ff&style=for-the-badge)
+![jQuery](https://img.shields.io/badge/jQuery-white?logo=jquery&logoColor=0078d4&style=for-the-badge)
+
+          
+
 * HTML5 
 * CSS3 (CSS preprocessor SCSS)
 * JavaScript, ES6,DOM,BOM
