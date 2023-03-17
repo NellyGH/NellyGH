@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nelly
 - Junior React JS Developer with a passion for building elegant and intuitive user interfaces. I have a solid understanding of HTML, CSS, and JavaScript, and I'm comfortable working with various web development tools such as Git, NPM.
-- As a developer, I believe in the power of collaboration and am always eager to work with others to build high-quality software. I am constantly learning and seeking out new challenges to improve my skills and knowledge, and I'm excited about the opportunity to grow and contribute to the development community.
+- As a developer, I believe in the power of collaboration and I am always eager to work with others to build high-quality software. I am constantly learning and seeking out new challenges to improve my skills and knowledge, and I'm excited about the opportunity to grow and contribute to the development community.
 - If you're interested in learning more about my work or have a project in mind, please don't hesitate to get in touch!
 
 - <p align='center'>
